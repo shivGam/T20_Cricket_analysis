@@ -2,7 +2,7 @@
 
 ## Preview
 <p float="middle">
-    <img src="Best11.png" width="400">
+    <img src="Best11.png" width="800">
 
 ## Project Description
 Explore this data analysis project that delves into the T20 World Cup dataset. We've performed extensive data processing and analysis to identify the best 11 players in each category.
